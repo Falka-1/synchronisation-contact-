@@ -25,15 +25,6 @@ Details: Graph / PowerShell Script t populate user contacts based on CSV input,
         .EXAMPLE
         .\graph-PopulateContactsFromCSV.ps1 -Mailbox  $mailbox -ClientSecret $clientSecret -ClientID $clientID -TenantID $tenantID -CSVPath $csv
         
-        .Notes
-        For similar scripts check out the links below
-        
-            Blog: https://seanmcavinue.net
-            GitHub: https://github.com/smcavinue
-            Twitter: @Sean_McAvinue
-            Linkedin: https://www.linkedin.com/in/sean-mcavinue-4a058874/
-
-
 #>
 #>
 #################################################
